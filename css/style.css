@@ -1,0 +1,251 @@
+.logo {
+    margin-top: 81.43px;
+}
+
+.ebook {
+    color: #00BA91;
+    font-size: 24px;
+    font-family: DM Sans, Arial, sans-serif;
+    text-transform: uppercase;
+    margin-top: 52.62px;
+    margin-bottom: 2px;
+}
+
+.introFrase {
+    color: white;
+    width: 544px;
+    height: 205px;
+    font-weight: bold;
+}
+
+
+.paragrafo {
+    margin-top: 68px;
+    margin-bottom: -250px;
+    width: 450px;
+    height: 520px;
+    font-size: 18px;
+    line-height: 32px;
+    font-family: DM Sans, Arial, sans-serif;
+}
+
+.paragrafo2 {
+    font-size: 18px;
+    line-height: 32px;
+    font-family: DM Sans, Arial, sans-serif;
+}
+
+
+.paragrafo3 {
+    font-size: 18px;
+    line-height: 32px;
+    font-family: DM Sans, Arial, sans-serif;
+}
+
+
+a {
+    color: #0B27FA;
+    font-weight: bold;  
+}
+
+.tituloForm {
+    width: 449px;
+    margin-top: 68px;
+    margin-left: 180px;
+    color: #021B51;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 40px;
+    font-family: DM Sans, Arial, sans-serif;
+}
+
+.formGeral {
+    margin-left: 180px;
+}
+
+.labels {
+    display: block;
+    color: #021B51;
+    font-family: DM Sans, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+
+.Func {
+    margin-top: 20px;
+}
+
+
+.form-1 {
+    width: 449px;
+    height: 40px;
+    border: 1px solid #021B51;
+}
+
+
+.btn {
+    color: #021B51;
+    font-size: 14px;
+    font-weight: bold;
+    background: #00BA91;
+    border: none;
+    width: 207px;
+    height: 40px;
+    margin-left: 242px;
+    margin-top: 15px;
+}
+
+.btn1 {
+    color: #021B51;
+    font-size: 14px;
+    font-weight: bold;
+    background: #00BA91;
+    border: none;
+    width: 207px;
+    height: 40px;
+    margin-left: 242px;
+    margin-top: -105px;
+    margin-bottom: 30px;
+}
+
+.imgGroup {
+    margin-top: -130px;
+    margin-left: -270px;
+}
+
+.footerFrase {
+    margin-top: -85px;
+    font-size: 16px;
+    color: #021B51;
+    line-height: 28,28px;
+    font-family: DM Sans, Arial, sans-serif;
+}
+
+@media only screen and (max-width: 787px) {
+    .logo {
+        margin-top: 48.76px;
+        margin-left: 122px;
+    }
+    
+    .ebook {
+        padding-top: 30px;
+        margin-bottom: -20px;
+    }
+
+    .introFrase {
+        width: 366px;
+        height: 125px;
+        font-size: 36px;
+        line-height: 40px;
+        font-family: Poppins, Arial, sans-serif;
+        font-weight: 600;
+        padding-top: 30px;
+    }
+
+    .paragrafo {
+        width: 360px;
+        height: 615px;
+        margin-bottom: -310px;
+        margin-top: 23px;
+    }
+
+    .paragrafo2 {
+        width: 360px;
+        height: 615px;
+        margin-bottom: -375px;
+    }
+
+    .coluna1 {
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+
+    .coluna2 {
+        margin-left: -165px;
+    }
+
+   
+    .form-1 {
+        width: 358px;
+        height: 40px;
+    }
+  
+    .btn {
+        margin-left: 200px;
+        width: 160.61px;
+    }
+
+    .btn1 {
+        display: none;
+    }
+
+    .imgGroup {
+        margin-top: -30px;
+        margin-left: 27px;
+    }
+
+    .footerFrase {
+        margin-top: 23px;
+        margin-left: 27px;
+        margin-bottom: 30px;
+    }
+}
+
+@media only screen and (min-width: 788px) and (max-width: 1199px) {
+
+    .paragrafo {
+        margin-top: 68px;
+        margin-bottom: -320px;
+        margin-left: 260px;
+        width: 450px;
+        height: 520px;
+        font-size: 18px;
+        line-height: 32px;
+        font-family: DM Sans, Arial, sans-serif;
+    }
+    
+    .paragrafo2 {
+        width: 450px;
+        height: 520px;
+        font-size: 18px;
+        line-height: 32px;
+        font-family: DM Sans, Arial, sans-serif;
+        margin-top: 68px;
+        margin-left: 260px;
+        margin-bottom: -320px;
+    }
+    
+    
+    .paragrafo3 {
+        margin-left: 260px;
+        width: 450px;
+        height: 520px;
+        font-size: 18px;
+        line-height: 32px;
+        font-family: DM Sans, Arial, sans-serif;
+    }
+
+    .coluna2 {
+        margin-top: -420px;
+        margin-left: 80px;
+    }
+
+    .btn1 {
+        margin-top: -1530px;
+        margin-left: 490px;
+    }
+
+    
+    .imgGroup {
+        margin-top: -1560px;
+        margin-left: -270px;
+    }
+
+    .footerFrase {
+        margin-top: -800px;
+        margin-left: 260px;
+        margin-bottom: 30px;
+    }
+}
