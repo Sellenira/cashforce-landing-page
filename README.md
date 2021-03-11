@@ -18,7 +18,7 @@ Teste de desenvolvimento de uma Landing Page em HTML5 e CSS3 para a Martin Luz.
 # Demonstração do projeto 🔬
 ---
 ### Web:
-![demo](https://user-images.githubusercontent.com/78499911/110220707-32fc5280-7ea6-11eb-8d30-82e129474c98.jpg)
+![web](https://user-images.githubusercontent.com/78499911/110834197-05cfeb80-827c-11eb-9d9f-cab05424fbb8.jpg)
 	
 ---
 Desenvolvido por Marselle Nira 🙋
